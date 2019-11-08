@@ -2,7 +2,6 @@
 <widget id="com.eli.game12" version="2.25" xmlns="http://www.w3.org/ns/widgets">
  <preference name="Fullscreen" value="true" />
  <preference name="DisallowOverscroll" value="true" />
- <preference name="StatusBarBackgroundColor" value="#000000" />
  <preference name="orientation" value="portrait" />
  <preference name="KeepRunning" value="true"/>
  <preference name="android-targetSdkVersion" value="29" />
