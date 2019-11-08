@@ -3,14 +3,11 @@
  <preference name="Fullscreen" value="true" />
  <preference name="DisallowOverscroll" value="true" />
  <preference name="StatusBarOverlaysWebView" value="true" />
+ <preference name="StatusBarBackgroundColor" value="#000000" />
  <preference name="orientation" value="portrait" />
  <preference name="KeepRunning" value="true"/>
  <preference name="android-targetSdkVersion" value="29" />
- <preference name="windows-arch" value="x64" />
- <preference name="windows-identity-name" value="xxxxxxxx.yyyyyyyyyyy" />
- <preference name="windows-appx-target" value="uap" />
-
-
+ <application android:hardwareAccelerated="true"></application>
  <name>Buckets</name>
  <icon src="" />
 

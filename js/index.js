@@ -5,6 +5,7 @@ var hide = document.getElementById('ani');
 function onload() {
   document.addEventListener("deviceready", onDeviceReady, false);
   console.log("ok so far");
+  test()
 }
 
 function onDeviceReady() {
