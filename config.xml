@@ -5,7 +5,6 @@
  <preference name="orientation" value="portrait" />
  <preference name="KeepRunning" value="true"/>
  <preference name="android-targetSdkVersion" value="29" />
- <application android:hardwareAccelerated="true"></application>
  <name>Buckets</name>
  <icon src="" />
 
